@@ -1,7 +1,7 @@
 # 👑 Kingsley MD – Advanced WhatsApp Bot  
 
 <p align="center">
-  <img src="https://img.icons8.com/color/96/000000/robot-2.png"/>
+  <img src="https://raw.githubusercontent.com/your-username/Kingsley-MD/main/assets/kingsley-banner.png"/>
 </p>
 
 Kingsley MD is a powerful multipurpose WhatsApp bot built with **Node.js** and **Baileys**.  
